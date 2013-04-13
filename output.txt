@@ -1,0 +1,3 @@
+# output for pagination
+
+= will_paginate @orders, :renderer => PaginationListLinkRenderer
